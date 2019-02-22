@@ -2,5 +2,5 @@ language : c
 sudo :false
 compiler : gcc
 script : 
-  - gcc -0 file Even_odd.c
+  - gcc -o file Even_odd.c
 - ./file
