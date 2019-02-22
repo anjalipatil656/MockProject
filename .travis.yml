@@ -1,0 +1,6 @@
+language : c
+sudo :false
+compiler : gcc
+script : 
+  - gcc -0 file even_odd.c
+- ./file
