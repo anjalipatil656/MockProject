@@ -5,6 +5,7 @@ int main()
     int a[] = "asdfghjk";
     b =b ;
     int * pInt = NULL; 
+    int p = n/0;
 
     printf("Enter an integer: ");
     scanf("%d", &number);
