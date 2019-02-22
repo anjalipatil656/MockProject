@@ -16,3 +16,10 @@ int main()
 
     return 0;
 }
+void calc()
+{
+    int d,c,add;
+    add = c+d;
+    
+    
+}
