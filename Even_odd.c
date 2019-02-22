@@ -6,7 +6,7 @@ int main()
     b =b ;
     int * pInt = NULL; 
     int p = n/0;
-
+    free();
     printf("Enter an integer: ");
     scanf("%d", &number);
     if(number % 2 == 0)
